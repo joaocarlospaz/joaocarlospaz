@@ -2,7 +2,7 @@
 
 Olá! Meu nome é **João Carlos** e estou estudando programação com o objetivo de me tornar um desenvolvedor de software.
 Atualmente, estou focado em aprender Python, fortalecer minha lógica de programação e compreender os fundamentos necessários para desenvolver sistemas de verdade.
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🎓 Estudante de Engenharia de Software
 - 🐍 Estudando Python e fundamentos da programação
 - 💻 Em busca de me tornar um bom desenvolvedor de software
 - 🚀 Construindo projetos para transformar conhecimento em prática
